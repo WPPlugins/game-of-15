@@ -1,0 +1,19 @@
+#game{
+	width:440px;
+	height:440px;
+}
+
+.InnerDiv{
+	width:100px;
+	height:100px;
+	float:left;
+	border:5px solid black;
+	margin:auto;
+	text-align:center;
+	font-weight:bold;
+}
+.blank{
+	width:110px;
+	height:110px;
+	float:left;
+}
